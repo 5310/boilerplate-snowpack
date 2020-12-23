@@ -3,7 +3,6 @@ module.exports = {
     'postcss-nested': {},
     'postcss-insert': {},
     'postcss-implicit-var': {},
-    'postcss-arithmetic': {},
     'postcss-media-minmax': {},
   },
 }
